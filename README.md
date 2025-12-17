@@ -8,7 +8,9 @@ The analysis uses a combination of:
 - **Python** for export price analysis,
 - **Excel/Table views** for local vs export price comparisons.
 
-The goal is to present a structured, data-driven perspective on Zambia’s soya bean export performance over the 2021–2022 period and contextualize it within local market conditions.
+The goal is to present a structured, data-driven perspective on Zambia’s soya bean export performance over the 2021–2022 period and contextualize it within local market conditions. The core question driving this analysis is: **Does exporting soya beans offer better returns for Zambian farmers and agribusinesses than selling locally?**
+
+**Original Article:** [Zambia’s Soya Beans Export Pulse (2021–2022 Data)](https://agricultureinzambia.com/zambias-soya-beans-export-pulse-2021-2022-data/)
 
 ---
 
@@ -84,11 +86,16 @@ The export figures in this project draw on international trade statistics for Za
 - Export value dropped to approximately USD 12.3 million in 2022. 4
 
 Additional data sources and contextual notes can be added once production and local pricing datasets are included.
-
+As cited in the original article:
+*   **Export Data**: FAO (Food and Agriculture Organization)
+*   **Regional Export Data**: World Bank
+*   **Production Data**: Zamstats (Zambia Statistics Agency)
+*   **Local Price Data**: PMRC Zambia & Parliament of Zambia
 ---
 
-## License
-
-This repository is released under the MIT License (or choose your preferred open license).
+## Conclusion
+This analysis demonstrates that exporting soya beans can be economically attractive, offering a price premium over local FRA prices. However, success is not automatic—it depends heavily on achieving scale, controlling logistics costs, and targeting the right destination markets. This repository provides the data and code backbone to support these insights.
 
 ---
+*Analysis and article by Shimanga Mubitana.*
+```
