@@ -56,17 +56,12 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 
 ---
 
-## Key Insights (To be updated)
-
-Once all visuals and tables are added, this section will summarize key insights such as:
-
-- Year-to-year percentage change in export value and quantity.
-- Top export market destinations and shifts between 2021 & 2022.
-- Export price trends and comparison with local price dynamics.
-- Observations from competitor pricing analysis.
-
-These findings will be supported with narrative text, charts, and dashboard links.
-
+## Key Insights
+- **Production Concentration**: Central and Eastern Provinces dominate Zambia's soya bean output.
+- **Export Price Premium**: Converted export prices to Angola, DRC, India, and South Africa consistently exceeded the local FRA price.
+- **Volume-Price Trade-off**: Markets like India paid higher prices for smaller volumes, while Tanzania and Zimbabwe took larger volumes at lower rates.
+- **Competitive Positioning**: Zambia occupies a middle-ground, exporting at higher prices than Mozambique but competitively with Tanzania and South Africa.
+- **Feasibility Hinges on Scale**: The export price advantage can be eroded by logistics costs, making organization and aggregation critical for profitability.
 ---
 
 ## How to Use
