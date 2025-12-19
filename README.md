@@ -50,8 +50,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
   - generate price trend charts,
   - calculate basic descriptive statistics.
 
-(https://github.com/Shimanga/Zambia-Soya-Beans-Export-Pulse/blob/c38f87f112479a8c623a15a0b5b76440d8a4b5e4/Images/Local%20price%20analysis%20per%20kg.png)>
-)
+![Local price analysis](images/Local%20price%20analysis%20per%20kg.png)
 
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
