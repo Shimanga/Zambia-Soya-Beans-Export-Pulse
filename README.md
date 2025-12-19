@@ -66,6 +66,7 @@ Figure 4:Local FRA prices(ZMW/KG
 ![Competitor price analysis](Images/Competitor_analysis.png)
 
 Figure 5: Zambia vs regional export competitors
+
 ---
 
 ## Key Insights
