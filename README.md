@@ -22,9 +22,9 @@ The goal is to present a structured, data-driven perspective on Zambia’s soya 
 
 Zambia’s soya bean export performance showed mixed trends between 2021 and 2022:
 
-- **Export destination patterns (2021)** show South Africa, India, and Tanzania as the leading partners in value and quantity terms. 0
-- **Export destination patterns (2022)** reveal a shift in partner rankings, though South Africa and Tanzania remain significant buyers. 1
-- Total export value declined from roughly **USD 21.5 million in 2021** to about **USD 12.3 million in 2022**, with similarly lower quantities exported. 2
+- **Export destination patterns (2021)** show South Africa, India, and Tanzania as the leading partners in value and quantity terms.
+- **Export destination patterns (2022)** reveal a shift in partner rankings, though South Africa and Tanzania remain significant buyers. 
+- Total export value declined from roughly **USD 21.5 million in 2021** to about **USD 12.3 million in 2022**, with similarly lower quantities exported. 
 
 The repository’s datasets and analyses aim to replicate and extend these insights, allowing interactive exploration of:
 - year-on-year export volume changes,
@@ -50,7 +50,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
   - generate price trend charts,
   - calculate basic descriptive statistics.
 
-![Local price analysis](images/Local%20price%20analysis%20per%20kg.png)
+![Local price analysis](images/"Local price analysis per kg.png")
 
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
