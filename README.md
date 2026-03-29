@@ -39,7 +39,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 - Understanding *regional yield patterns* is essential for planning export logistics and targeting high-demand markets efficiently.
 
 ![Production Data](Images/production_data.png)
-
+Figure 1: 
 ### Export Volumes and Destinations
 - Total export revenue fell from *USD 21.5M in 2021* to *USD 12.3M in 2022*.  
 - *South Africa and Tanzania* remained the largest importers, accounting for over 60% of total exports.  
@@ -47,7 +47,7 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 - Provincial production is concentrated in *Central and Eastern provinces*, which significantly influences export capacity and logistics planning.
 
 ![Export Trend analysis](Images/Export_data.png)
-Figure 3: Export Unit Prices and Quantity by destination(USD/KG, 2021-2022). Blank values indicate years with no recorded exports to that destination
+Figure 2: Export Unit Prices and Quantity by destination(USD/KG, 2021-2022). Blank values indicate years with no recorded exports to that destination
 View interactive dashboard on Tableau Public: https://public.tableau.com/app/profile/shimanga.mubitana/viz/Book1_17648309333440/Dashboard1
 
 ### Export vs Local Market Prices
@@ -56,7 +56,7 @@ View interactive dashboard on Tableau Public: https://public.tableau.com/app/pro
 - Scenario modeling shows that even small shifts in export prices or exchange rates could significantly impact farm-level income.
 ![Local price analysis](Images/Local_price_analysis_per_kg.png)
 
-Figure 4:Local FRA prices(ZMW/KG)
+Figure 3:Local FRA prices(ZMW/KG)
 
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
@@ -64,7 +64,7 @@ Figure 4:Local FRA prices(ZMW/KG)
 
 ![Competitor price analysis](Images/Competitor_analysis.png)
 
-Figure 5: Zambia vs regional export competitors
+Figure 4: Zambia vs regional export competitors
 
 ---
 
