@@ -8,7 +8,10 @@ The goal is to present a structured, data-driven perspective on Zambia’s soya 
 
 ---
 
-## Repository Structure
+## Tools and Methods
+- *Python (Pandas, Matplotlib, Seaborn)*: Data cleaning, statistical analysis, and visualizations.  
+- *Tableau*: Interactive charts for export volume trends and price comparisons.  
+- *Excel*: Data organization, calculations, and scenario modeling.
 
 ---
 
@@ -18,7 +21,7 @@ Zambia’s soya bean export performance showed mixed trends between 2021 and 202
 
 - **Export destination patterns (2021)** show South Africa, India, and Tanzania as the leading partners in value and quantity terms.
 - **Export destination patterns (2022)** reveal a shift in partner rankings, though South Africa and Tanzania remain significant buyers. 
-- Total export value declined from roughly **USD 21.5 million in 2021** to about **USD 12.3 million in 2022**, with similarly lower quantities exported. 
+- Total export value declined from roughly USD 21.5 million in 2021 to about USD 12.3 million in 2022, with similarly lower quantities exported. 
 
 The repository’s datasets and analyses aim to replicate and extend these insights, allowing interactive exploration of:
 - year-on-year export volume changes,
@@ -28,30 +31,32 @@ The repository’s datasets and analyses aim to replicate and extend these insig
 
 ---
 
-## Methods & Tools
+## Results
 
-### Data Preparation
-- Raw agricultural and trade data were cleaned and formatted in **Excel**.
-- Time series and comparative tables were prepared to support trend analysis.
+### Regional Production Insights
+- Analysis of production volumes by province reveals concentration in areas with established infrastructure and transport links.  
+- Eastern and Central provinces dominate production, with smaller contributions from Southern and Northern regions.  
+- Understanding *regional yield patterns* is essential for planning export logistics and targeting high-demand markets efficiently.
+
 ![Production Data](Images/production_data.png)
 
-### Export Trend Visualization
-- **Tableau** was used to create export volume trend visuals by year and partner country.
-- Visuals include bar charts, line trends, and country comparisons.
+### Export Volumes and Destinations
+- Total export revenue fell from *USD 21.5M in 2021* to *USD 12.3M in 2022*.  
+- *South Africa and Tanzania* remained the largest importers, accounting for over 60% of total exports.  
+- A decline in exports to other regional markets highlights potential *dependency risks* and opportunities for diversification.  
+- Provincial production is concentrated in *Central and Eastern provinces*, which significantly influences export capacity and logistics planning.
 
 ![Export Trend analysis](Images/Export_data.png)
 Figure 3: Export Unit Prices and Quantity by destination(USD/KG, 2021-2022). Blank values indicate years with no recorded exports to that destination
 View interactive dashboard on Tableau Public: https://public.tableau.com/app/profile/shimanga.mubitana/viz/Book1_17648309333440/Dashboard1
 
-### Price Analytics
-- **Python** (Pandas, Matplotlib/Seaborn) was used to:
-  - load and clean export price data,
-  - generate price trend charts,
-  - calculate basic descriptive statistics.
-
+### Export vs Local Market Prices
+- Average export prices exceeded local market prices by 15–25%, suggesting *higher profitability potential* for farmers with access to export channels.  
+- Price volatility analysis indicates that while exports offer higher returns, *market timing and partner selection* are critical to avoid revenue dips.  
+- Scenario modeling shows that even small shifts in export prices or exchange rates could significantly impact farm-level income.
 ![Local price analysis](Images/Local_price_analysis_per_kg.png)
 
-Figure 4:Local FRA prices(ZMW/KG
+Figure 4:Local FRA prices(ZMW/KG)
 
 ### Competitor & Price Comparisons
 - Additional price and competitor data were analysed in **Excel**,
@@ -64,6 +69,9 @@ Figure 5: Zambia vs regional export competitors
 ---
 
 ## Key Insights
+- **Export potential is significant**: Soya bean exports can generate higher revenue than local sales if farmers and cooperatives optimize logistics and market selection.  
+- **Market concentration is a risk**: Heavy reliance on South Africa and Tanzania makes exports vulnerable to regional disruptions.  
+- **Data-driven decision-making** is critical*: Price comparisons, scenario modeling, and provincial production mapping can guide investment and trade strategies.
 - **Production Concentration**: Central and Eastern Provinces dominate Zambia's soya bean output.
 - **Export Price Premium**: Converted export prices to Angola, DRC, India, and South Africa consistently exceeded the local FRA price.
 - **Volume-Price Trade-off**: Markets like India paid higher prices for smaller volumes, while Tanzania and Zimbabwe took larger volumes at lower rates.
@@ -71,14 +79,10 @@ Figure 5: Zambia vs regional export competitors
 - **Feasibility Hinges on Scale**: The export price advantage can be eroded by logistics costs, making organization and aggregation critical for profitability.
 ---
 
-## How to Use
-
-1. Clone this repository.
-2. Open the `data/` folder to explore raw and cleaned datasets.
-3. View visualizations in `analysis/` or `dashboards/`.
-4. Run the Python notebook in a Jupyter environment (`soya_beans_local_price_analysis.py`).
-5. Update visual assets as available (Tableau/Excel dashboards).
-
+## Next Steps / Recommendations
+- Explore *alternative regional and international markets* to reduce dependency risk.  
+- Strengthen *farm-level coordination* to leverage bulk exports and reduce costs.  
+- Maintain *updated trade and production data* for continuous scenario analysis and forecasting.
 ---
 
 ## Notes & References
