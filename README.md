@@ -100,7 +100,7 @@ As cited in the original article:
 ---
 
 ## Conclusion
-This analysis demonstrates that exporting soya beans can be economically attractive, offering a price premium over local FRA prices. However, success is not automatic—it depends heavily on achieving scale, controlling logistics costs, and targeting the right destination markets. This repository provides the data and code backbone to support these insights.
+This analysis demonstrates that exporting soya beans can be economically attractive, offering a price premium over local FRA prices. However, success is not automatic, it depends heavily on achieving scale, controlling logistics costs, and targeting the right destination markets. This repository provides the data and code backbone to support these insights.
 
 ---
 *Analysis and article by Shimanga Mubitana.*
