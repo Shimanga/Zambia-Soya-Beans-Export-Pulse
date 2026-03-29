@@ -1,12 +1,6 @@
-# Zambia Soya Beans Export Pulse (2021–2022)
+# Zambia Soya Bean Export Analysis 2021–2022 | Market Trends & Prices
 
-This repository supports the analysis and insights from the *Zambia’s Soya Beans Export Pulse* report, covering export volumes, destination markets, price trends, and local versus export value dynamics.
-
-The analysis uses a combination of:
-- **Excel** for production and competitor data,
-- **Tableau** for export volume trends,
-- **Python** for export price analysis,
-- **Excel/Table views** for local vs export price comparisons.
+This report provides a detailed analysis of Zambia’s soya bean exports between 2021 and 2022. It evaluates export volumes, pricing trends, regional production, and local market returns, offering actionable insights for farmers, agribusinesses, and trade analysts. The analysis uses Python, Tableau, and Excel to generate data-driven visuals and scenario comparisons, supporting evidence-based decisions in agricultural trade and production strategy.
 
 The goal is to present a structured, data-driven perspective on Zambia’s soya bean export performance over the 2021–2022 period and contextualize it within local market conditions. The core question driving this analysis is: **Does exporting soya beans offer better returns for Zambian farmers and agribusinesses than selling locally?**
 
