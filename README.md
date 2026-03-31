@@ -39,9 +39,9 @@ Average export prices exceeded local FRA prices by 15-25% across 2021–2022. Ho
 Central and Eastern provinces dominate output. Export feasibility is therefore as much about aggregation and transport cost control as about farm-gate price.
 
 ### 5. Competitive positioning
-Zambia exports at higher prices than Mozambique but competitively with Tanzania and South Africa—occupying a middle ground that requires careful logistics strategy.
+Zambia exports at higher prices than Mozambique but competitively with Tanzania and South Africa, occupying a middle ground that requires careful logistics strategy.
 
-📊 **Interactive dashboard:** [Tableau Public – Export Unit Prices & Quantities by Destination](https://public.tableau.com/app/profile/shimanga.mubitana/viz/Book1_17648309333440/Dashboard1)
+📊 **Interactive dashboard:** [Tableau Public - Export Unit Prices & Quantities by Destination](https://public.tableau.com/app/profile/shimanga.mubitana/viz/Book1_17648309333440/Dashboard1)
 
 ---
 
@@ -50,7 +50,7 @@ Zambia exports at higher prices than Mozambique but competitively with Tanzania 
 | Figure | Description |
 |--------|-------------|
 | ![Production Data](Images/production_data.png) | **Figure 1:** Provincial production concentration (Central & Eastern provinces dominant) |
-| ![Export Trend analysis](Images/Export_data.png) | **Figure 2:** Export unit prices (USD/kg) by destination, 2021–2022 (blank = no exports) |
+| ![Export Trend analysis](Images/Export_data.png) | **Figure 2:** Export unit prices (USD/kg) by destination, 2021-2022 (blank = no exports) |
 | ![Local price analysis](Images/Local_price_analysis_per_kg.png) | **Figure 3:** Local FRA prices (ZMW/kg) – baseline for comparison |
 | ![Competitor price analysis](Images/Competitor_analysis.png) | **Figure 4:** Zambia vs. regional export competitors |
 
@@ -63,19 +63,19 @@ Zambia exports at higher prices than Mozambique but competitively with Tanzania 
 - Provincial production concentration provides a basis for spatial equilibrium modeling of agricultural exports from landlocked regions.
 
 **For policy evaluation:**
-- Price premiums exist but are eroded by logistics costs unless farmers coordinate. This suggests that export promotion policies should prioritize **aggregation infrastructure** before trade agreements.
-- Scenario modeling shows that small changes in exchange rates or freight costs can flip the export‑vs‑local decision → future work should integrate real‑time cost data.
+- Price premiums exist but are eroded by logistics costs unless farmers coordinate. This suggests that export promotion policies should prioritize aggregation infrastructure before trade agreements.
+- Scenario modeling shows that small changes in exchange rates or freight costs can flip the export‑vs‑local decision ie future work should integrate real‑time cost data.
 
 **For practitioners:**
 - Export potential is real but conditional on scale and destination matching.
-- Market concentration is a risk—diversification is not just a slogan but a quantified necessity.
+- Market concentration is a risk-diversification is not just a slogan but a quantified necessity.
 
 ---
 
 ## Next Steps (Extended Research Agenda)
 
-- [ ] Build a **cost‑insight margin model** (farm‑gate → port) to quantify break-even logistics costs.
-- [ ] Apply **time‑series forecasting** to regional soybean prices to identify optimal export windows.
+- [ ] Build a cost‑insight margin model (from farm‑gate to port) to quantify break-even logistics costs.
+- [ ] Apply time‑series forecasting to regional soybean prices to identify optimal export windows.
 - [ ] Cross‑country comparison: Zambia vs. other landlocked agricultural exporters (Malawi, Burkina Faso) to isolate logistics vs. price effects.
 - [ ] Maintain updated trade and production data for continuous scenario analysis.
 
