@@ -1,4 +1,4 @@
-# Zambia Soya Bean Export Analysis (2021–2022)
+# Zambia Soya Bean Export Analysis (2021-2022)
 
 ## A Data-Driven Investigation into Export Viability vs. Local Market Returns
 
@@ -25,7 +25,7 @@ This project is a structured, empirical inquiry into Zambia’s soya bean export
 ## Core Evidence & Findings
 
 ### 1. Export price premium (conditional)
-Average export prices exceeded local FRA prices by 15-25% across 2021–2022. However, this premium is not automatic. It depends on destination market selection and achieved scale.
+Average export prices exceeded local FRA prices by 15-25% across 2021-2022. However, this premium is not automatic. It depends on destination market selection and achieved scale.
 
 ### 2. Volume‑price trade‑off by destination
 - **India**: higher unit price, lower volume  
@@ -33,7 +33,7 @@ Average export prices exceeded local FRA prices by 15-25% across 2021–2022. Ho
 - **Implication**: No single "best" market exists; optimal choice depends on a supplier’s ability to aggregate or split shipments.
 
 ### 3. Concentration risk
->60% of exports went to South Africa and Tanzania. Total export value fell from ~USD 21.5M (2021) to ~USD 12.3M (2022), revealing vulnerability to regional demand shocks.
+60% of exports went to South Africa and Tanzania. Total export value fell from ~USD 21.5M (2021) to ~USD 12.3M (2022), revealing vulnerability to regional demand shocks.
 
 ### 4. Production–logistics link
 Central and Eastern provinces dominate output. Export feasibility is therefore as much about aggregation and transport cost control as about farm-gate price.
