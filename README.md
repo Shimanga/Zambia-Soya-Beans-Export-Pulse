@@ -18,8 +18,6 @@ This project is a structured, empirical inquiry into Zambia’s soya bean export
 | **Tableau** | Interactive dashboards for export destination trends and year-on-year price shifts |
 | **Excel** | Scenario modeling: how changes in exchange rates or freight costs alter the export vs. local decision |
 
-**Data sources:** FAO (export flows), World Bank (regional competitor prices), Zamstats (provincial production), PMRC Zambia & Parliament of Zambia (local FRA prices).
-
 ---
 
 ## Core Evidence & Findings
@@ -82,7 +80,7 @@ Zambia exports at higher prices than Mozambique but competitively with Tanzania 
 ---
 
 
-## References & Data Sources
+## Data Sources
 
 | Data type | Source |
 |-----------|--------|
